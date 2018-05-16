@@ -1,0 +1,9 @@
+{
+  "name": "HelloWorldNode",
+  "version": "1.0.0",
+  "description": "Getting started with Nodejs",
+  "main": "index.js",
+  "repository": "https://github.com/hiepnh035/NodeGettingStarted.git",
+  "author": "Nguyen Huy Hiep",
+  "license": "MIT"
+}
